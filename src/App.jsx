@@ -1,8 +1,9 @@
 import React from 'react'
+import "./App.css"
 
 const App = () => {
   return (
-    <div>Hello From Render</div>
+    <h1>Uploading awesome things ....</h1>
   )
 }
 
