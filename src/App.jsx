@@ -1,9 +1,12 @@
-import React from 'react'
-import "./App.css"
+import "./App.css";
+
+import HeroPage from "./components/HeroPage";
 
 const App = () => {
   return (
-    <h1>Uploading awesome things ....</h1>
+   <>
+   <HeroPage/>
+   </>
   )
 }
 
